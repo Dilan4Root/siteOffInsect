@@ -1,0 +1,32 @@
+.text_1 {
+    font-size: 20px;
+    width: 70%;
+}
+
+.img_info {
+    width: 250px;
+    float: left
+}
+
+#img_cockroache_1 {
+    width: 350px;
+    float: right;
+}
+
+#img_insecticide_1 {
+    width: 350px;
+    float: right;
+}
+
+#img_place_cockroache {
+    width: 500px;
+    float: left
+}
+
+#cockroache {
+    padding-left: 250px;
+}
+
+.footer {
+    
+}
