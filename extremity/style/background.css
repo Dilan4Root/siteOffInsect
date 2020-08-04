@@ -45,8 +45,16 @@ header {
     text-decoration: none;
     color: #000000
 }
+#menu ul li input {
+    text-decoration: none;
+    color: #000000
+}
 
 #menu ul li a:hover {
+    background-color: #fff600;
+    
+}
+#menu ul li input:hover {
     background-color: #fff600;
     
 }
